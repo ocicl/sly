@@ -2,8 +2,8 @@
 
 SLY is Sylvester the Cat's Common Lisp IDE for Emacs.
 
-|---------+------------------------------------------------------------------------|
-| source  | file:https://github.com/joaotavora/sly/archive/refs/tags/1.0.43.tar.gz |
-| version | 1.0.43                                                                 |
-| systems | slynk                                                                  |
-|---------+------------------------------------------------------------------------|
+|---------+-------------------------------------------|
+| source  | git:https://github.com/joaotavora/sly.git |
+| commit  | ba40c8f                                   |
+| systems | slynk                                     |
+|---------+-------------------------------------------|
